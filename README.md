@@ -36,3 +36,5 @@ Spreadsheet with a forecasting model tab, allowing the selection of scenarios an
 
 # Conclusion:
 By analyzing real-life NYSE data, this project equips students with essential data analysis skills and a comprehensive understanding of effective data handling, visualization, and statistical techniques. The insights gained from this project will contribute to students' practical knowledge and enhance their ability to work with large datasets.
+
+Feel free to explore the notebooks and provide feedback or suggestions for improvements. Happy analyzing!
